@@ -1,5 +1,6 @@
 # Power-BI
-The projects in this repo mainly focus on the below 3 vericals in power bi
+The projects in this repo mainly focus on the below 3 vericals in power bi.
+
 -> Data Transformation
 -> Data Modelling (star and snowflake schema)
 -> Data Visualization
