@@ -1,4 +1,4 @@
-# Power-BI, Data Visualization ![]()
+# Power-BI, Data Visualization ![](https://github.com/ARJUNM12311/Data-Visualizations-Using-Power-BI/blob/main/Power-BI-Symbol.png)
 The projects in this repo mainly focus on the below 3 vericals in power bi.
 
 ### ***-> Data Transformation*** ###
