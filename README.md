@@ -11,5 +11,6 @@
 Clustered bar chart, Clustured column chart and Ribbion chart etc.
 
 
-** Also the projects will cover concepts on based on the requirement. **
--> Dax fundamentals         
+** Also the projects will cover below concepts on based on the requirement. **
+
+* Dax fundamentals         
